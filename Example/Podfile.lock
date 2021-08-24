@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - NWReactNative (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - NWReactNative (from `../`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  NWReactNative:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  NWReactNative: 43a2d3512c12dd0c569d0c52d8dbe5d5b050dc69
+
+PODFILE CHECKSUM: dd05cdabedb0ad4a9be981483a9ce9865d45187b
+
+COCOAPODS: 1.10.1

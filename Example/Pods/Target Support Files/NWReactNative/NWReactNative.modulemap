@@ -1,0 +1,6 @@
+framework module NWReactNative {
+  umbrella header "NWReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
